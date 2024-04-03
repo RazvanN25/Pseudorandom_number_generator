@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.sim/sim_1/behav/xsim/glbl.v,1665704902,verilog,,,,glbl,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sim_1/new/sim.v,1712080605,verilog,,,,sim,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/TOP.v,1712078796,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/counter.v,,TOP,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/counter.v,1712080240,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/counter2.v,,counter,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/counter2.v,1711984804,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/delay_reg.v,,counter2,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/delay_reg.v,1711984804,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/desen.v,,delay_reg,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/desen.v,1711996454,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/flipflop.v,,desen,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/flipflop.v,1711984804,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/fsm.v,,flipflop_D,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/fsm.v,1711984804,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/lut.v,,fsm,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/lut.v,1711997434,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/ram.v,,lut,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/ram.v,1711984804,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/structural.v,,ram,,,,,,,,
+E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sources_1/new/structural.v,1711995790,verilog,,E:/Verilog/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sim_1/new/sim.v,,structural,,,,,,,,

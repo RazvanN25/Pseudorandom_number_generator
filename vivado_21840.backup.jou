@@ -1,0 +1,68 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Apr  1 20:30:07 2024
+# Process ID: 21840
+# Current directory: C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21704 C:\Users\Vlad\Problema_2_CV_pseudorandom_nr_generator\Problema_2_CV_pseudorandom_nr_generator.xpr
+# Log file: C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/vivado.log
+# Journal file: C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator\vivado.jou
+# Running On: DESKTOP-O4HNEOH, OS: Windows, CPU Frequency: 3793 MHz, CPU Physical cores: 12, Host memory: 33411 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.xpr
+update_compile_order -fileset sources_1
+archive_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator.xpr.zip -temp_dir C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/.Xil/Vivado-21840-DESKTOP-O4HNEOH -force -include_local_ip_cache
+export_ip_user_files -of_objects  [get_files C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/archive_project_summary.txt] -no_script -reset -force -quiet
+remove_files  C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/archive_project_summary.txt
+file mkdir C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sim_1/new/sim.v w ]
+add_files -fileset sim_1 C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.srcs/sim_1/new/sim.v
+update_compile_order -fileset sim_1
+launch_simulation
+source TOP.tcl
+close_sim
+launch_simulation
+source TOP.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top sim [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+close_sim
+close_project
+open_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/Problema_2_CV_pseudorandom_nr_generator.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source sim.tcl
+close_sim
+launch_simulation
+source sim.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+source sim.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+archive_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator.xpr.zip -temp_dir C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/.Xil/Vivado-21840-DESKTOP-O4HNEOH -force -include_local_ip_cache
+archive_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator.xpr.zip -temp_dir C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/.Xil/Vivado-21840-DESKTOP-O4HNEOH -force -include_local_ip_cache
+archive_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator.xpr.zip -temp_dir C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/.Xil/Vivado-21840-DESKTOP-O4HNEOH -force -include_local_ip_cache
+archive_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator.xpr.zip -temp_dir C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/.Xil/Vivado-21840-DESKTOP-O4HNEOH -force -include_local_ip_cache
+archive_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator.xpr.zip -temp_dir C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/.Xil/Vivado-21840-DESKTOP-O4HNEOH -force -include_local_ip_cache
+archive_project C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator.xpr.zip -temp_dir C:/Users/Vlad/Problema_2_CV_pseudorandom_nr_generator/.Xil -force -include_local_ip_cache
